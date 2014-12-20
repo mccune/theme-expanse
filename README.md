@@ -3,7 +3,7 @@ theme-expanse
 
 The official repository for our default theme, Expanse. Fork this to use it as a boilerplate.
 
-## Getting Started
+## Getting Started.
 
 This theme uses LESS for CSS precompiling, and it uses Gulp for compiling the LESS into CSS, and also for concatenating and minifying JavaScript files.
 
